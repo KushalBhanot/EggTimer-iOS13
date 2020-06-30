@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Want to your mornings to be hassle-free with delicious eggs? Look no more.</h4>
+<h4 align="center">Want your mornings to be hassle-free with delicious eggs? Look no more.</h4>
 
 <p align="center">
   <a href="https://github.com/KushalBhanot">
@@ -42,7 +42,7 @@
 
 # EggTimer
 [![HitCount](http://hits.dwyl.com/KushalBhanot/EggTimer-iOS13.svg)](http://hits.dwyl.com/KushalBhanot/EggTimer-iOS13)<br>
-Want to your mornings to be hassle-free with delicious eggs? Look no more.
+Want your mornings to be hassle-free with delicious eggs? Look no more.
 
 ## Cloning
 ```bash
